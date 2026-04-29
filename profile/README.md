@@ -39,3 +39,4 @@ pip install agentseal           # agent security
 | [agentseal](https://github.com/getagentseal/agentseal) | Security scanner for AI agents: prompt testing, MCP analysis, skill file auditing |
 | [agentseal-mcp-intel](https://github.com/getagentseal/agentseal-mcp-intel) | MCP server intelligence and security analysis |
 | [awesome-mcp-security](https://github.com/getagentseal/awesome-mcp-security) | Curated list of MCP security resources |
+| [founder-playbook](https://github.com/getagentseal/founder-playbook) | Actionable playbooks for technical founders |
