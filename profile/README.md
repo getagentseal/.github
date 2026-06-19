@@ -24,9 +24,9 @@ We build open-source tools for developers who code with AI agents. Two problems 
 
 **[AgentSeal](https://github.com/getagentseal/agentseal)** finds security gaps before attackers do. 300+ deterministic probes test for prompt extraction and injection. Local scans catch poisoned MCP servers, malicious skill files, and hidden config changes across 17 agents. No API keys, no LLM judges, same result every time.
 
-**Eywa** *(coming soon)* gives agents provenance-grounded long-term memory. Every fact carries a receipt: the source, the time, and what it replaced. Recall is deterministic with zero LLM calls on read, and the whole store is one directory you own.
+**Eywa** *(coming soon)* is provenance-grounded long-term memory for AI agents.
 
-<img src="https://raw.githubusercontent.com/getagentseal/.github/main/profile/eywa.jpg" alt="Eywa: memory is a record, not a guess" style="border-radius: 12px;" />
+<img src="https://raw.githubusercontent.com/getagentseal/.github/main/profile/eywa.png" alt="Eywa: provenance-grounded long-term memory for AI agents (coming soon)" style="border-radius: 12px;" />
 
 ## Getting Started
 
