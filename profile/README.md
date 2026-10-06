@@ -11,7 +11,7 @@
   ·
   <a href="https://agentseal.org/docs">Docs</a>
   ·
-  <a href="https://github.com/getagentseal/codeburn">CodeBurn</a>
+  <a href="https://codeburn.app">CodeBurn</a>
   ·
   <a href="https://github.com/getagentseal/agentseal">AgentSeal</a>
   ·
@@ -22,7 +22,7 @@
 
 We build open-source tools for developers who code with AI agents. Two problems kept showing up: teams have no visibility into what their AI spend actually buys, and the agents they trust run on attack surfaces nobody is testing.
 
-**[CodeBurn](https://github.com/getagentseal/codeburn)** tracks cost and performance across 30 AI tools. See what you spent by model, task, and project. Find waste patterns with ready-to-paste fixes. Measure how often the AI gets it right on the first try. Everything local, nothing leaves your machine.
+**[CodeBurn](https://codeburn.app)** tracks cost and performance across 41 AI coding tools. See what you spent by model, task, and project. Find waste patterns with ready-to-paste fixes. Measure how often the AI gets it right on the first try. Everything local, nothing leaves your machine.
 
 **[AgentSeal](https://github.com/getagentseal/agentseal)** finds security gaps before attackers do. 300+ deterministic probes test for prompt extraction and injection. Local scans catch poisoned MCP servers, malicious skill files, and hidden config changes across 17 agents. No API keys, no LLM judges, same result every time.
 
@@ -39,7 +39,7 @@ pip install agentseal           # agent security
 
 | Repo | What it does |
 |------|-------------|
-| [codeburn](https://github.com/getagentseal/codeburn) | Token usage, cost, and performance tracking for 30 AI tools |
+| [codeburn](https://github.com/getagentseal/codeburn) | Token usage, cost, and performance tracking for 41 AI coding tools |
 | [agentseal](https://github.com/getagentseal/agentseal) | Security scanner for AI agents: prompt testing, MCP analysis, skill file auditing |
 | eywa *(coming soon)* | Provenance-grounded long-term memory for AI agents: deterministic recall, source receipts, zero LLM calls on read |
 | [agentseal-mcp-intel](https://github.com/getagentseal/agentseal-mcp-intel) | MCP server intelligence and security analysis |
