@@ -1,6 +1,6 @@
 <a href="https://agentseal.org">
   <picture>
-    <img src="https://raw.githubusercontent.com/getagentseal/.github/main/profile/hero.png" alt="AgentSeal" style="border-radius: 12px;" />
+    <img src="https://raw.githubusercontent.com/getagentseal/.github/main/profile/hero.png?v=2" alt="AgentSeal" style="border-radius: 12px;" />
   </picture>
 </a>
 
